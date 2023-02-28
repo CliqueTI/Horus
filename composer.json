@@ -1,5 +1,5 @@
 {
-  "name": "cliqueti/fmz-horus",
+  "name": "cliqueti/horus",
   "description": "Fmz-Horus é um pequeno SDK desenvolvido para realizar integrações com o ERP HORUS.",
   "minimum-stability": "stable",
   "keywords": [
